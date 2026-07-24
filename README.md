@@ -4,6 +4,15 @@
 
 ---
 
+## 🌐 Live Demo
+
+ResearchFlow AI is deployed on Render and can be accessed here:
+
+**Live Application:**  
+https://researchflow-ai-system.onrender.com/
+
+- **Note:** Since the application is hosted on Render's free tier, the first request may take 30–60 seconds while the server wakes up.
+
 ## 🚀 Overview
 
 ResearchFlow AI is an intelligent research assistant built with **LangChain**, **LLMs**, and **Streamlit**. Instead of relying on a single AI model, it uses a **multi-agent architecture** where each agent performs a specialized task in the research pipeline.
