@@ -160,7 +160,3 @@ streamlit run app.py
 <img width="1752" height="908" alt="Screenshot 2026-07-22 200731" src="https://github.com/user-attachments/assets/4321adf2-02d1-46c5-9498-4fe019b04ca4" />
 
 ```
-assets/demo.png
-```
-
----
