@@ -4,14 +4,9 @@
 
 ---
 
-## 🌐 Live Demo
+🌐 **Live Demo:** https://researchflow-ai-system.onrender.com/
 
-ResearchFlow AI is deployed on Render and can be accessed here:
-
-**Live Application:**  
-https://researchflow-ai-system.onrender.com/
-
-- **Note:** Since the application is hosted on Render's free tier, the first request may take 30–60 seconds while the server wakes up.
+> **Note:** Since the application is hosted on Render's free tier, the first request may take 30–60 seconds while the server wakes up.
 
 ## 🚀 Overview
 
@@ -124,13 +119,9 @@ Create a `.env` file in the project root.
 TAVILY_API_KEY=your_tavily_api_key
 GROQ_API_KEY=your_groq_api_key
 ```
-
-If using Gemini:
-
-```env
-GOOGLE_API_KEY=your_google_api_key
-```
-
+You can obtain the `API keys` from:
+* Groq: https://console.groq.com/
+* Tavily: https://tavily.com/
 ---
 
 ## ▶️ Run the Application
