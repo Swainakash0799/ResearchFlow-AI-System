@@ -106,7 +106,7 @@ uv sync
 or
 
 ```bash
-pip install -r requirements.txt
+uv add -r requirements.txt
 ```
 
 ---
