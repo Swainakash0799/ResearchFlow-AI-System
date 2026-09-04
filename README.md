@@ -103,10 +103,10 @@ Using **uv**
 uv sync
 ```
 
-or
+Activate on Windows:
 
 ```bash
-uv add -r requirements.txt
+.venv\Scripts\activate
 ```
 
 ---
