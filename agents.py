@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-llm = ChatGroq(model = "qwen/qwen3.8-27b",temperature = 0)
+llm = ChatGroq(model = "openai/gpt-oss-120b",temperature = 0)
 
 # 1st agent - Search agent
 def build_search_agent():
