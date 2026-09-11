@@ -3,7 +3,6 @@
 > A Multi-Agent AI Research System that autonomously searches the web, extracts relevant information, generates a structured research report, and critically reviews the final output using specialized AI agents.
 
 ---
-# pytest demo
 
 🌐 **Live Demo:** https://researchflow-ai-system.onrender.com/
 
